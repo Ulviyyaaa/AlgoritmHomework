@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var product=[
+            {
+                product_id:"7",
+                product_name:"monitor",
+                price:"100"
+            },
+            {
+                product_id:"4",
+                product_name:"mouse",
+                price:"70"
+            },
+            {
+                product_id:"8",
+                product_name:"keyboard",
+                price:"150"
+            },
+            {
+                product_id:"9",
+                product_name:"volumer",
+                price:"40"
+            },
+            {
+                product_id:"2",
+                product_name:"printer",
+                price:"300"
+            }
+        ];
+
+        let sum = 0
+
+        for (let i = 0; i < product.length; i++){
+            if(product[i].product_id%2!=0){
+                
+                sum+=product[i].price/2;
+            }
+        }
+        console.log("netice:" +sum)
+    </script>
+</body>
+</html>

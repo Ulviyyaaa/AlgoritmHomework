@@ -1,0 +1,15 @@
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.csproj.AssemblyReference.cache
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.AssemblyInfo.cs
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Algotask2\Algotask2\bin\Debug\net6.0\Algotask2.exe
+C:\Users\predator\source\repos\Algotask2\Algotask2\bin\Debug\net6.0\Algotask2.deps.json
+C:\Users\predator\source\repos\Algotask2\Algotask2\bin\Debug\net6.0\Algotask2.runtimeconfig.json
+C:\Users\predator\source\repos\Algotask2\Algotask2\bin\Debug\net6.0\Algotask2.dll
+C:\Users\predator\source\repos\Algotask2\Algotask2\bin\Debug\net6.0\Algotask2.pdb
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.dll
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\refint\Algotask2.dll
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.pdb
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\Algotask2.genruntimeconfig.cache
+C:\Users\predator\source\repos\Algotask2\Algotask2\obj\Debug\net6.0\ref\Algotask2.dll
